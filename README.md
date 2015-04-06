@@ -20,7 +20,7 @@ handles debouncing both ends, and sending a single clean signal to the Arduino.
 Grbl has some debounce routines in it, but having this board enables changing to
 other systems that may not have debouncing built in.
 
-# LIMIT-INTERFACE
+## LIMIT-INTERFACE
 LIMIT-INTERFACE is a single axis, strip board version of the 3 axis board. Not
 everyone can fab a PCB, and not everyone can afford to have the large 3 axis
 board professionally fabbed. The strip board version can be easily made (and
